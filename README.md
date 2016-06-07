@@ -1,18 +1,19 @@
-# add module exports for file after webpack executed
+# webpack-module-exports for webpack
 
 ## Usage
 
 ``` javascript
 var WebpacModuleExports = require("webpack-module-exports");
-plugins: [
-		// for all file
-        new WebpacModuleExports(),
 
-        // just for index.js
-        // new WebpacModuleExports({
-        //     fileRegExp: /index.js/
-        // }),
-    ],
+plugins: [
+	// for all file
+    new WebpacModuleExports(),
+
+    // just for index.js
+    // new WebpacModuleExports({
+    //     fileRegExp: /index.js/
+    // }),
+],
 ```
 
 ## License
