@@ -3,14 +3,14 @@
 ## Usage
 
 ``` javascript
-var WebpacModuleExports = require("webpack-module-exports");
+var WebpacAddModuleExports = require("webpack-add-module-exports");
 
 plugins: [
-	// for all file
-    new WebpacModuleExports(),
+    // for all file
+    new WebpacAddModuleExports(),
 
     // just for index.js
-    // new WebpacModuleExports({
+    // new WebpacAddModuleExports({
     //     fileRegExp: /index.js/
     // }),
 ],
