@@ -1,0 +1,22 @@
+{
+  "name": "webpack-module-exports",
+  "version": "0.0.1",
+  "description": "add module exports for file after webpack executed",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "keywords": [
+    "front-end",
+    "web",
+    "webpack",
+    "plugin",
+    "building tool"
+  ],
+  "homepage": "https://github.com/joeyguo/webpack-module-exports",
+  "bugs": {
+      "url": "https://github.com/joeyguo/webpack-module-exports/issues"
+  },
+  "author": "joeyguo",
+  "license": "MIT"
+}
