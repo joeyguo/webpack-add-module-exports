@@ -1,5 +1,5 @@
 {
-  "name": "webpack-module-exports",
+  "name": "webpack-add-module-exports",
   "version": "0.0.1",
   "description": "add module exports for file after webpack executed",
   "main": "index.js",

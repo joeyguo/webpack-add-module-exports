@@ -1,4 +1,4 @@
-# webpack-module-exports for webpack
+# webpack-add-module-exports for webpack
 
 ## Usage
 
